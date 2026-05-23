@@ -4,7 +4,9 @@ This (hopefully) will be a tool to help with evidence marking and such in the Ro
 # Project State
 As of this README being written, I have written no code. This is because this repo was published like five minutes ago. Anyways my goal is to eventually have a sort of JavaScript "database" (is that the right word? i don't care) of all of AD's maps, evidence types, and suspects. I'm very much new to JS and JSON stuff so it probably will be clunky and unoptimized at first, but the general goal is to have a system that will allow you to mark evidence for each map in a true/false format and essentially filter suspects. Literally just the way the case file arm works in-game, but without being restricted to ONLY inclusive or ONLY exclusive ways of filtering. I sat here trying to word this for like ten minutes straight before realizing it's that simple. That does not bode well for the project but like hey, here's my general roadmap at the moment:
 <details>
+
 <summary>Stupid large checklist</summary>
+
 - [ ] Create the basic 'template' for how the JSON stuff will be organized and verify that it works as intended via console logging
 - [ ] Add Motel Room and make sure it works
 - [ ] Add Moolah Manor and make sure it works (Or Baller Bank? If BB is the first four-evidence map. I can't rember.)
