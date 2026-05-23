@@ -57,5 +57,8 @@ Still in the planning stage, which for this project is an unholy amalgamation of
 - [ ] weep tears of joy
 </details>
 
-# I can't think of another section
-i feel like more info is supposed to go in a readme. uhm. shrug. that's for later
+# Tech Stack
+Aiming to create this with just pure HTML, CSS, and JS/JSON. I don't know why I'm making a distinction between JS and JSON i mean it's literally JAVA SCRIPT object notation but idk it feels right WHATEVER
+
+# License
+Technically GNU general public v3.0 but like honestly i really don't care as long as you don't claim you wrote any of the (future) code. which, like. why would you want to claim ownership to my dogshit spaghetti code of all things, dude? does this hypothetical plagiarist even exist? i highly doubt it?
